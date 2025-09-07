@@ -1,4 +1,4 @@
-package dev.netprint.showalltables;
+package dev.baust.showalltables;
 
 import com.sap.scco.ap.plugin.BasePlugin;
 import com.sap.scco.ap.plugin.PluginConfigurationDTO;
