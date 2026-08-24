@@ -42,3 +42,4 @@ tomcat.8080
 *.log
 
 deploy.sh
+log/
