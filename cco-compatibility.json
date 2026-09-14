@@ -1,0 +1,25 @@
+{
+  "mode": "SPECIFIC",
+  "versions": [
+    {
+      "edition": "ON_PREMISE",
+      "featurePack": "21"
+    },
+    {
+      "edition": "CLOUD",
+      "featurePack": "2502"
+    },
+    {
+      "edition": "CLOUD",
+      "featurePack": "2503"
+    },
+    {
+      "edition": "CLOUD",
+      "featurePack": "2601"
+    },
+    {
+      "edition": "CLOUD",
+      "featurePack": "2602"
+    }
+  ]
+}
